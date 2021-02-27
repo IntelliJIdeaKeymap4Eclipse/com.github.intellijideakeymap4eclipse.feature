@@ -2,7 +2,7 @@
 <feature
       id="com.github.intellijideakeymap4eclipse.feature"
       label="IntelliJ IDEA Keymap for Eclipse"
-      version="0.1.0.qualifier"
+      version="0.1.1.qualifier"
       provider-name="IntelliJIdeaKeymap4Eclipse">
 
    <description url="http://www.example.com/description">
@@ -106,7 +106,7 @@ You may add additional accurate notices of copyright ownership.
    </license>
 
    <url>
-      <update label="update-site" url="https://dl.bintray.com/intellijideakeymap4eclipse/update-site"/>
+      <update label="update-site" url="https://raw.githubusercontent.com/IntelliJIdeaKeymap4Eclipse/IntelliJIdeaKeymap4Eclipse-update-site/main/IntelliJIdeaKeymap-UpdateSite"/>
    </url>
 
    <requires>
