@@ -2,7 +2,7 @@
 <feature
       id="com.github.intellijideakeymap4eclipse.feature"
       label="IntelliJ IDEA Keymap for Eclipse"
-      version="0.1.3.qualifier"
+      version="0.1.4.qualifier"
       provider-name="IntelliJIdeaKeymap4Eclipse">
 
    <description url="http://www.example.com/description">
